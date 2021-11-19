@@ -3,10 +3,13 @@ Author: Ali Homsi
 
 Language: Java    
 
-##Assumptions:   
+Used IDE: IntelliJ IDEA 2020.1.1 Community Edition  
+
+
+## Assumptions:   
 - The user has to choose the category of the product, whether it belongs to the taxable item category.     
 
-##Notes:   
+## Notes:   
 - The code is found under the \src directory.  
 - running the main fucntion in main.java starts the program. 
 - Console output for the task test cases is available under the directory \test console outputs   
